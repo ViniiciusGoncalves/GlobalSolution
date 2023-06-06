@@ -3,6 +3,9 @@
 # Aviso ----- BUG
 Após criar um pedido de doação atualizar o index.js do Home  para aparecer no código, não consegui dar um refresh após efetuar o cadastro....
 
+# Link do video mostrando o front e o bug
+url: https://www.youtube.com/watch?v=XbDZEwYbp_E&ab_channel=ViniciusGon%C3%A7alves
+
 # Endpoints da API
 
 UserController
