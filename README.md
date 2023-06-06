@@ -1,5 +1,8 @@
 # GlobalSolution
 
+# Aviso ----- BUG
+Após criar um pedido de doação atualizar o index.js do Home  para aparecer no código, não consegui dar um refresh após efetuar o cadastro....
+
 # Endpoints da API
 
 UserController
